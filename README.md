@@ -9,6 +9,10 @@ For more information, please refer to the
 
 <img src="https://raw.githubusercontent.com/openmrs/openmrs-esm-laboratory/main/assets/screenshots/labs_general_dashboard.png" />
 
+
+### Adding tab panels
+Implementers can add or remove laboratory tab panels via extension configuration in the [routes.js](https://github.com/openmrs/openmrs-esm-laboratory/blob/main/src/routes.json) json file 
+
 ### Adding Results
 
 <img src="https://raw.githubusercontent.com/openmrs/openmrs-esm-laboratory/main/assets/screenshots/labs_enter_results.png" />
